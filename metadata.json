@@ -1,0 +1,8 @@
+{
+  "name": "Consulta Médica Rimed",
+  "description": "Consulta médica en Santiago Centro desde 2010. Tratamiento de la obesidad, medicina general, psiquiatría y psicología. Moneda 856, of. 301. Reserva tu hora por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
